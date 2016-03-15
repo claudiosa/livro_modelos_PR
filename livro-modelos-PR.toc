@@ -32,10 +32,11 @@
 \contentsline {section}{\numberline {3.3}Um Exemplo}{17}{section.3.3}
 \contentsline {section}{\numberline {3.4}Conclus\IeC {\~o}es Parciais}{21}{section.3.4}
 \contentsline {chapter}{\numberline {4}Modelagem de Problemas}{23}{chapter.4}
-\contentsline {section}{\numberline {4.1}Cabo de Guerra}{23}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Descri\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Especifica\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Modelagem}{24}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Estrat\IeC {\'e}gia}{25}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Implementa\IeC {\c c}\IeC {\~a}o}{25}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Resultados e An\IeC {\'a}lise}{25}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.1}Os Modelos em Estudo}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}Cabo de Guerra}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Descri\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Especifica\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Modelagem}{24}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Estrat\IeC {\'e}gia}{25}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Implementa\IeC {\c c}\IeC {\~a}o}{25}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Resultados e An\IeC {\'a}lise}{25}{subsection.4.2.6}
