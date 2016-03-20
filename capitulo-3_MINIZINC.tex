@@ -18,6 +18,9 @@ Além disto, outras de suas qualidades são a simplicidade, a expressividade e a
 
 \subsection{Um Paradigma Computacional}
 
+{\bf \textcolor{red}{Incluir aqui partes do artigo já escrito}}
+
+
 $$ Modelo + Dados = A_1 \wedge A_2 \wedge A_3 \wedge  ....  \wedge  A_n $$
 
 \begin{itemize}
@@ -38,6 +41,7 @@ modelos sobre os problemas reais.
 \subsection{Estrutura de um Programa em \minizinc}
 
 {\bf \textcolor{red}{Faltando uma figura}}
+
 
 \subsection{Constantes ou Parâmetros}
 
@@ -75,11 +79,10 @@ específico, ou restrito, que é o caso de interesse,
 estas variáveis são conhecidas como
 \textit{variáveis de restrição}.
 Estas assumem valores que   são {\em descobertos} dentro de um domínio 
-de valores sob um conjunto de restrições que 
-é o  \textit{modelo  computado}.
+de valores sob um conjunto de restrições sob  o  \textit{modelo  computado}. Esta é a idéia da PR.
 
 
-\subsection{Restrições ou Declarações Lógicas}
+\subsection{Restrições (Declarações Lógicas)}
 
 {\bf \textcolor{red}{Faltando ....}}
 \subsection{Satisfatibilidade e Otimização}
@@ -92,7 +95,7 @@ de valores sob um conjunto de restrições que
 
 \subsection{Instalação e Uso}
 
-{\bf \textcolor{red}{Revisao ....}}
+{\bf \textcolor{red}{Imediato após a versão 2.0.12}}
 
 
 \begin{enumerate}   
@@ -106,6 +109,8 @@ minizinc\textgreater/bin
 \end{enumerate}
 
 
+
+{\bf \textcolor{red}{Melhorar isto acima}}
 
 
 
@@ -122,7 +127,7 @@ Este exemplo provê noções básicas para compreender e desenvolver programas n
     frame=single,
     caption={Exemplo de um modelo em MiniZinc}
     ]
-    {/home/ccs/Dropbox/CCS/minizinc/nqueens.mzn}
+    {sources_mzn/nqueens.mzn}
 
 
 Este é um modelo para o problema das $n$-rainhas, apresentado na Subseção \ref{ss:exemplo-de-modelagem}. A primeira linha contém o comando \textit{include}, que funciona de forma análoga às outras linguagens de programação, como C. Este comando serve para possibilitar a divisão de um mesmo modelo em diversos arquivos e utilizar bibliotecas externas. Neste caso, está sendo incluída a biblioteca de restrições globais por meio do arquivo \textit{globals.mzn}, com o intuito de utilizar a restrição \textit{alldifferent}, pertencente a tal biblioteca, no modelo.
@@ -170,7 +175,7 @@ Na biblioteca apresentada no capítulo 4, as funcionalidades são implementadas 
     stepnumber=1, 
     frame=single,
     caption={Exemplo de utilização de função}
-    ]{/home/ccs/Dropbox/CCS/minizinc/nqueens_fn.mzn}
+    ]{sources_mzn/nqueens_fn.mzn}
 
 
 Na linha 6 deste exemplo, há a declaração da função. Esta é iniciada com a palavra chave \textit{function}, que é sucedida pela declaração do tipo de retorno da função. Em MiniZinc, toda função precisa obrigatoriamente de um retorno, visto que quando este não se faz necessário pode-se substituir o uso de uma função pelo uso de um predicado.

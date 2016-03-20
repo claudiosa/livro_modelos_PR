@@ -22,10 +22,10 @@
 \contentsline {section}{\numberline {3.1}Apresentando o MiniZinc}{15}{section.3.1}
 \contentsline {section}{\numberline {3.2}Elementos da Linguagem}{15}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Um Paradigma Computacional}{15}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Estrutura de um Programa em MiniZinc}{15}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Estrutura de um Programa em MiniZinc}{16}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Constantes ou Par\IeC {\^a}metros}{16}{subsection.3.2.3}
 \contentsline {subsection}{\numberline {3.2.4}Vari\IeC {\'a}veis}{16}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Restri\IeC {\c c}\IeC {\~o}es ou Declara\IeC {\c c}\IeC {\~o}es L\IeC {\'o}gicas}{16}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.5}Restri\IeC {\c c}\IeC {\~o}es (Declara\IeC {\c c}\IeC {\~o}es L\IeC {\'o}gicas)}{16}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Satisfatibilidade e Otimiza\IeC {\c c}\IeC {\~a}o}{16}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Sa\IeC {\'\i }das}{16}{subsection.3.2.7}
 \contentsline {subsection}{\numberline {3.2.8}Instala\IeC {\c c}\IeC {\~a}o e Uso}{17}{subsection.3.2.8}
