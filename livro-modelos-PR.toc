@@ -33,10 +33,20 @@
 \contentsline {section}{\numberline {3.4}Conclus\IeC {\~o}es Parciais}{21}{section.3.4}
 \contentsline {chapter}{\numberline {4}Modelagem de Problemas}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}Os Modelos em Estudo}{23}{section.4.1}
-\contentsline {section}{\numberline {4.2}Cabo de Guerra}{23}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Descri\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Especifica\IeC {\c c}\IeC {\~a}o}{23}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Modelagem}{24}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Estrat\IeC {\'e}gia}{25}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Implementa\IeC {\c c}\IeC {\~a}o}{25}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Resultados e An\IeC {\'a}lise}{25}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.2}Ilustrando a PR}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}O bras\IeC {\~a}o da Cro\IeC {\'a}Xia}{23}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Quais s\IeC {\~a}o os pontos no tri\IeC {\^a}ngulo?}{24}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Quais s\IeC {\~a}o os pontos? -- 01}{24}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Quais s\IeC {\~a}o os pontos? -- 02}{24}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Quais s\IeC {\~a}o os pontos? -- 03}{25}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Cripto-Aritm\IeC {\'e}ticos}{26}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}O que \IeC {\'e} um cripto-aritm\IeC {\'e}tico?}{26}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Alguns Criptos}{26}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}A Equa\IeC {\c c}\IeC {\~a}o \/ ``{\em M\IeC {\'a}gica}''}{27}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Cabo de Guerra}{27}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Descri\IeC {\c c}\IeC {\~a}o}{27}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Especifica\IeC {\c c}\IeC {\~a}o}{27}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Modelagem}{28}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}Estrat\IeC {\'e}gia}{28}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Implementa\IeC {\c c}\IeC {\~a}o}{29}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Resultados e An\IeC {\'a}lise}{29}{subsection.4.4.6}
