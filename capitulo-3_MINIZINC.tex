@@ -1,4 +1,96 @@
-\chapter{A Linguagem MiniZinc}
+\chapter{Tutorial sobre  MiniZinc}
+
+
+\section{Contexto}
+
+
+
+
+%\section{Histórico}
+
+
+
+\section{Motivação}
+
+\subsection{Definições Iniciais}
+
+O \mzn é uma \textit{linguagem de modelagem} de alto-nível,
+ destinada a descrever  modelos matemáticos para problemas
+ de satisfação de restrições e otimização combinatória. Uma
+ vez construído um modelo, uma especificação em \mzn, esta precisa
+ ser processada por algum \textit{backend}. Ou seja, algum   solucionador ou resolvedor, comumente conhecido como \textit{solver},
+ que processe suas especificações e retorne valores
+ consistentes, ou até mesmo ótimos.
+
+Assim, os \textit{solvers} desempenham papel fundamental em
+problemas de combinatória. Existem vários \textit{solvers}, de vários
+propósitos, e que operam em domínios de valores diversos.
+
+Deste modo, o \mzn é uma linguagem de modelos que suporta uma
+codificação única, contudo, com chamada há vários tipos destes \textit{solvers}. Logo, \mzn  foi criado com o objetivo de unificar
+em uma única linguagem, a chamada aos mais diferentes \textit{solvers}.
+
+Deste modo, uma única implementação em \mzn pode ser comparada
+com diversos \textit{solvers}, permitindo que estes sejam comparados
+com imparcialidade entre si. Este fato, permite que um
+dado modelo, bem ou mal modelado, seja único sob os diversos 
+ \textit{solvers} em  \textit{backend}.
+
+Esta situação é ilustrada na figura ....
+
+\subsection{Linguagens e Bibliotecas}
+
+Para se encaminhar a resolução de problemas de otimização discreta, a codificação do mesmo pode ser feita basicamente sob duas visões de uso:
+
+\begin{itemize}
+  \item Linguagens de hospedeiras
+  \item Linguagens orientadas a modelo
+\end{itemize}
+
+A linguagens de hospedeiras disponibilizam de toda sua sintaxe
+e uma biblioteca específica que suporte o paradigma da Programação por Restrições (PR) ou ainda que possa utilizar bibliotecas prontas
+de outros resolvedores (\textit{solvers}). 
+
+A principal característica para estas linguagens é a sua flexibilidade na construção de detalhes do modelo. Aspectos como a depuração, controle das buscas, criar novos artefatos para busca, etc, tornam este grupo atrativo para um desenvolvimento de alto-desempenho.
+
+Como exemplo para este grupo segue as seguintes linguagens e suas respectivas bibliotecas:
+
+\begin{description}
+  \item[Picat] apresenta uma biblioteca própria para PR, e pode chamar outros \textit{solvers};
+  
+    \item[GECODE] é uma biblioteca própria para PR escrita em C++, e utiliza toda linguagem C++ como ambiente de programação;
+  
+   \item[ECLiPSe] é um ambiente completo para PR estendendo a linguagem Prolog. O código do ECLIPSE é aberto, e o mesmo é mantido pela empresa CISCO;
+  
+  \item[SICTUS] é proprietário e para PR estende a linguagem Prolog.
+
+  \item[JACOP] é uma biblioteca que estende a  a linguagem Java. Para   uso acadêmico é livre, para fins indústriais proprietário.
+    
+\end{description}
+
+Para o  grupo de linguagens orientadas a modelos, o foco
+é a \textit{descrição dos modelos} e o uso de \textit{solvers} diversos.
+
+\begin{description}
+  \item[CPLEX] produto da IBM, originário do ILOG;
+  
+    \item[MiniZinc] um subconjunto da linguagem Zinc, e que
+    utiliza o \textit{solver} FlatZinc;
+  
+   \item[Gurobi] ;
+  
+   \item[Gurobi] ;
+    
+\end{description}
+
+
+
+
+
+
+
+
+
 
 
 \section{Apresentando o MiniZinc}
@@ -12,6 +104,9 @@ O MiniZinc surgiu com a proposta de criar uma linguagem padrão de modelagem, na
 
 
 Além disto, outras de suas qualidades são a simplicidade, a expressividade e a facilidade de implementação \cite{mzntwds}. A simplicidade se encontra principalmente na sintaxe, e a expressividade é dada por permitir modelar diversos tipos de problemas por meio dos recursos disponibilizados.
+
+\section{Operacionalidade entre \textit{solvers} e o MiniZinc}
+
 
 \section{Elementos da Linguagem}
 

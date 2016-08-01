@@ -18,19 +18,24 @@
 \contentsline {section}{\numberline {2.5}Buscas}{14}{section.2.5}
 \contentsline {section}{\numberline {2.6}Acelerando as Buscas}{14}{section.2.6}
 \contentsline {section}{\numberline {2.7}Conclus\IeC {\~o}es Parciais}{14}{section.2.7}
-\contentsline {chapter}{\numberline {3}A Linguagem MiniZinc}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Apresentando o MiniZinc}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Elementos da Linguagem}{15}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Um Paradigma Computacional}{15}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Estrutura de um Programa em MiniZinc}{16}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Constantes ou Par\IeC {\^a}metros}{16}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Vari\IeC {\'a}veis}{16}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Restri\IeC {\c c}\IeC {\~o}es (Declara\IeC {\c c}\IeC {\~o}es L\IeC {\'o}gicas)}{16}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Satisfatibilidade e Otimiza\IeC {\c c}\IeC {\~a}o}{16}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Sa\IeC {\'\i }das}{16}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Instala\IeC {\c c}\IeC {\~a}o e Uso}{17}{subsection.3.2.8}
-\contentsline {section}{\numberline {3.3}Um Exemplo}{17}{section.3.3}
-\contentsline {section}{\numberline {3.4}Conclus\IeC {\~o}es Parciais}{21}{section.3.4}
+\contentsline {chapter}{\numberline {3}Tutorial sobre MiniZinc}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Contexto}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Motiva\IeC {\c c}\IeC {\~a}o}{15}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Defini\IeC {\c c}\IeC {\~o}es Iniciais}{15}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Linguagens e Bibliotecas}{15}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Apresentando o MiniZinc}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}Operacionalidade entre \textit {solvers} e o MiniZinc}{17}{section.3.4}
+\contentsline {section}{\numberline {3.5}Elementos da Linguagem}{17}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Um Paradigma Computacional}{17}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Estrutura de um Programa em MiniZinc}{17}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Constantes ou Par\IeC {\^a}metros}{17}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Vari\IeC {\'a}veis}{17}{subsection.3.5.4}
+\contentsline {subsection}{\numberline {3.5.5}Restri\IeC {\c c}\IeC {\~o}es (Declara\IeC {\c c}\IeC {\~o}es L\IeC {\'o}gicas)}{18}{subsection.3.5.5}
+\contentsline {subsection}{\numberline {3.5.6}Satisfatibilidade e Otimiza\IeC {\c c}\IeC {\~a}o}{18}{subsection.3.5.6}
+\contentsline {subsection}{\numberline {3.5.7}Sa\IeC {\'\i }das}{18}{subsection.3.5.7}
+\contentsline {subsection}{\numberline {3.5.8}Instala\IeC {\c c}\IeC {\~a}o e Uso}{18}{subsection.3.5.8}
+\contentsline {section}{\numberline {3.6}Um Exemplo}{18}{section.3.6}
+\contentsline {section}{\numberline {3.7}Conclus\IeC {\~o}es Parciais}{22}{section.3.7}
 \contentsline {chapter}{\numberline {4}Modelagem de Problemas}{23}{chapter.4}
 \contentsline {section}{\numberline {4.1}Os Modelos em Estudo}{23}{section.4.1}
 \contentsline {section}{\numberline {4.2}Ilustrando a PR}{23}{section.4.2}
